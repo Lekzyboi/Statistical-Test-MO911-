@@ -1,4 +1,4 @@
-# Statistical-Test-MO911-
+Data Visualization-MO911-
 
 This is the solution to the assignment Task 2 on Data Visualization
 
